@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Generics_Example
 {
-    public class BubbleSort<T> where T : INumber<T>
+    public class BubbleSort
     {
-        public T[] Sort(params T[] num)
+        public T[] Sort<T>(params T[] num) where T : INumber<T>
         {
             var temp = default(T);
 
