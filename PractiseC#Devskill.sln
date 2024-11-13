@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Type", "Nullable T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic Example", "Dynamic Example\Dynamic Example.csproj", "{5E485E94-2D38-4788-9D50-D2BD1BDB280D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics Example", "Generics Example\Generics Example.csproj", "{F614A787-D1D3-407D-83DF-3143E17ECAD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{5E485E94-2D38-4788-9D50-D2BD1BDB280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E485E94-2D38-4788-9D50-D2BD1BDB280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E485E94-2D38-4788-9D50-D2BD1BDB280D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F614A787-D1D3-407D-83DF-3143E17ECAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F614A787-D1D3-407D-83DF-3143E17ECAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F614A787-D1D3-407D-83DF-3143E17ECAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F614A787-D1D3-407D-83DF-3143E17ECAD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
