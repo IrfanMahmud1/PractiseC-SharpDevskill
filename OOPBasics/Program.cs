@@ -1,5 +1,7 @@
 ﻿using OOPBasics;
 
+Product product = new Product();
+
 //WatterBottle bottle1 = new WatterBottle(100, "red");
 //bottle1.AddWater(50);
 //bottle1.AddWater(50);
@@ -15,7 +17,7 @@
 //product.Price = 500;
 //Console.WriteLine(product.CalculateDiscount());
 
-//Student student = new Student("irfan","1234");
+Student student = new Student("irfan","1234");
 //student.ChangePassword("1234", "4123");
 //student.CreateId();
 //User user = new Student("Irfan","546");
