@@ -8,13 +8,13 @@ namespace InterfaceExamples
 {
      class Camera : IProduct
     {
-        //public double CalculateCustomerSalary()
-        //{
-        //    throw new NotImplementedException();
-        //}
-        //public double Calculate()
-        //{
-        //    return 4;
-        //}
+        public double CalculateCustomerSalary()
+        {
+            throw new NotImplementedException();
+        }
+        public double Calculate()
+        {
+            return 4;
+        }
     }
 }

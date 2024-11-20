@@ -1,3 +1,4 @@
 ﻿using InterfaceExamples;
 
+Console.WriteLine();
 
